@@ -1,0 +1,17 @@
+{
+	"name": "Ging1991.Musica",
+	"rootNamespace": "Ging1991.Musica",
+	"references": [
+		"Ging1991.Core",
+		"Ging1991.Persistencia"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"autoReferenced": true,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
